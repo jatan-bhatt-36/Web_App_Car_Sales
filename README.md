@@ -1,6 +1,9 @@
-# Sprint-4-Project
-Project Description:
-Perform EDA on sample dataset, vehicles_us, using visualization charts to identify trends and patterns. Then use Software Development Tools to upload EDA notebook to a GitHub repository and then deploy a web app using Render to demonstrate the visualization charts via a web app.
+# Web Application Development Project - Car Sales
 
 Render URL:
 https://sprint-4-project-ky57.onrender.com
+
+Project Description:
+Perform EDA on a car sales advertisements dataset to identify and understand any trends, patterns and relationships within the dataset and to use that information to formulate conclusions that can help predict better consumer to sales models. Additionally, to use graphs and visualization to demonstrate these trends and relationships. Lastly, state any key insights founded throught the EDA of this dataset
+
+Then use Software Development Tools to develop and deploy a web application to a cloud service so that it is accessible to the public using the Render platform. The web app should present key findings generated from the EDA.
